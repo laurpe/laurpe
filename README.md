@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 
 I am...
 - a fullstack web development student at Business College Helsinki
